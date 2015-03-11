@@ -1,0 +1,25 @@
+Script started on 2015年03月11日 (週三) 15時18分53秒
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ $ whoami; pwd
+$: command not found
+/home/F74032112
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$  git config ‐l
+git: 'config ‐l' is not a git command. See 'git --help'.
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$  git config ‐l[K[K-l
+git: 'config -l' is not a git command. See 'git --help'.
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ git config -l
+user.name=henry0929016816
+user.email=f74032112@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ git done https://github.com/hen ry0929016816/lab1.git
+git: 'done' is not a git command. See 'git --help'.
+
+Did you mean this?
+	clone
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$  git clone https://github.com/< your github account>/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[C[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[1P/lab1.git[C[C[C[C[1P/lab1.git[C[C[C[1P/lab1.git[C[C[1P/lab1.git[C[1P/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/l[1Pab1.git[A]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch/lab1.gite/lab1.git[Cn/lab1.git[C[Cr/lab1.git[C[C[Cy/lab1.git[C[C[C[C0/lab1.git[C[C[C[C[C9/lab1.git[C[C[C[C[C[C2/lab1.git[C[C[C[C[C[C[C9/lab1.git0/lab1.git1/lab1.git6/lab1.git8/lab1.git1/lab1.git6/lab1.git[C[C[C[C[C[C[C[C[C
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ [K]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 15時22分24秒
