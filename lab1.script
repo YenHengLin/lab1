@@ -1,0 +1,25 @@
+Script started on 2015年03月16日 (週一) 13時33分48秒
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ [K]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ whoami;pwd
+F74032112
+/home/F74032112
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ git config -l
+user.name=henry0929016816
+user.email=f74032112@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.url=https://github.com/henry0929016816/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+remote.origin.url=https://github.com/henry0929016816/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ git clonehttps://github.com/hen ry0929016816/lab1.git
+git: 'clonehttps://github.com/henry0929016816/lab1.git' is not a git command. See 'git --help'.
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ git clonehttps://github.com/henrry0929016816/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/henry0929016816/lab1.git[A[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/hennry0929016816/lab1.git[C[C[C
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032112@2015cpp: ~F74032112@2015cpp:~$ exit
+
+Script done on 2015年03月16日 (週一) 13時37分01秒
